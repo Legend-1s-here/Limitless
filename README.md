@@ -1,4 +1,4 @@
-<div align="center"> <img src="./assets/limitless-banner-jjk.png" alt="Limitless neon particle banner" width="100%">
+<div align="center"> <img src="./assets/limitless-banner-jjk-new.png" alt="Limitless neon particle banner" width="100%">
 <img src="https://img.shields.io/badge/🟣_HOLLOW_PURPLE-7C3AED?style=for-the-badge&labelColor=16002F" alt="Hollow Purple">
 <img src="https://img.shields.io/badge/🌌_INFINITE_VOID-06B6D4?style=for-the-badge&labelColor=002A3A" alt="Infinite Void">
 <img src="https://img.shields.io/badge/🔴_RED-F43F5E?style=for-the-badge&labelColor=3A0010" alt="Red">
